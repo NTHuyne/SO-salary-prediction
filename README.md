@@ -1,4 +1,10 @@
 # SO-salary-prediction
+
+## Introduction
+This project drives data from [https://insights.stackoverflow.com/survey/2017]. From the given data, this project will predict the salary based on the given atrributes by using basic ML algorithms.
+
+This contains:
+
 1. [Installation](#installation)
 2. [Dataset](#dataset)
 3. [Objective](#Objective)
