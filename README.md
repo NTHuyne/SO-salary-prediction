@@ -10,7 +10,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 ## Dataset <a name="dataset"></a>
 The data is from [here](https://insights.stackoverflow.com/survey/2017). 
 
-## Objective <a name="objective")</a>
+## Objective <a name="objective"></a>
 In the notebooke "Salaty Prediction", this project aims to answer:
 1. Develop an efficient ML model to predict the Salary based on Linear Regression model.
 
