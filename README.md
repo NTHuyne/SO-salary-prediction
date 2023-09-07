@@ -1,4 +1,4 @@
-# SO-salary-prediction
+# Stack Overflow salary prediction based on developers survey 2017
 
 ## Introduction
 This project drives data from [https://insights.stackoverflow.com/survey/2017]. From the given data, this project will predict the salary based on the given atrributes by using basic ML algorithms.
@@ -21,4 +21,4 @@ In the notebooke "Salaty Prediction", this project aims to answer:
 1. Develop an efficient ML model to predict the Salary based on Linear Regression model.
 
 # References
-Give credit to Stack Overflow for the data
+Give credits to Stack Overflow for the data
